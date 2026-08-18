@@ -149,3 +149,8 @@ A primeira versão será considerada funcional quando o grupo conseguir demonstr
 ## 12. Próximos passos
 
 O grupo deve confirmar a disponibilidade do ESP32, do sensor de som, do sensor PIR e dos LEDs RGB. Depois, deve executar os testes individualmente, registrar os resultados no repositório e atualizar o status das tarefas do backlog. Por fim, o grupo deve revisar este README, adicionar eventuais alterações na proposta e postar o arquivo ou o repositório organizado no Teams.
+
+## 12. Considerações finais
+
+Neste momento, nós ainda não temos total conhecimento sobre o nível de dificuldade para desenvolver o projeto, principalmente porque será necessário utilizar o ESP32, integrar diferentes sensores e controlar a iluminação RGB. Por isso, a proposta apresentada é apenas uma ideia inicial, que será analisada e testada durante as aulas práticas.
+O projeto poderá sofrer alterações ao longo do desenvolvimento caso percebamos que a implementação é muito complexa para o prazo da N1 ou caso os equipamentos e componentes necessários não estejam disponíveis no laboratório. Se isso acontecer, poderemos simplificar a proposta, substituir alguns sensores ou utilizar outros componentes que cumpram uma função semelhante. Dessa forma, nosso objetivo inicial é verificar a viabilidade técnica do projeto e adaptá-lo de acordo com os recursos disponíveis e com os resultados dos primeiros testes.
